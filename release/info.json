@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "modName": "MetamagicExtendedTransmutedSpell",
+      "UUID": "d341071f-4a1a-47ab-8f5c-ad0033141452",
+      "folderName": "MetamagicExtendedTransmutedSpell",
+      "Description": "Adds Transmuted Spell.",
+      "version": "1.0.0.0",
+      "MD5": ""
+    }
+  ]
+}
