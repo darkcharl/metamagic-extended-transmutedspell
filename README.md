@@ -1,3 +1,3 @@
-# Metamagic Extended Seeking Spell Tweak
+# Metamagic Extended Transmuted Spell
 
-Restores the cost of Seeking Spell to 2 Sorcery Points as defined in 5E.
+Adds Transmuted Spell to the list of available Metamagics.
